@@ -1,2 +1,2 @@
 # Kirana-Pasal
-It is a winform app used as a shopping window app for grocerry shopping
+It was a winform app used as a portal to shopping which can manage and speedify the customer shopping process . The big mall and departmental store can install this kind of system and later customer can come and select items to buy , later some sales representative can give those lists of item to the customer . I lost my code on this but i will sure try to reimplement this system later on .
